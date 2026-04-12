@@ -1,0 +1,12 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "description": "Local Tourism Promotion Website",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html src/destination.html src/packages.html src/gallery.html src/contact.html --dist-dir dist --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
