@@ -1,0 +1,22 @@
+21
+70C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\.dockerignore134204976426942502 0
+63C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\styles134204976539538238 1
+69C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\package.json134204976427002939 0
+67C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\.gitignore134204976426962644 0
+60C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\src134205002291291834 1
+61C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist134205002385120273 1
+67C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\Dockerfile134204976426982771 0
+73C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\src\gallery.html134204999287501140 0
+66C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\README.md134204976427002939 0
+73C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\styles\style.css134204976427040676 0
+73C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\src\contact.html134204978998998706 0
+77C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\src\destination.html134204998944486608 0
+71C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\src\index.html134204976427023101 0
+74C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\src\packages.html134204999082816351 0
+82C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\contact.5c0b6897.css134205002384830898 0
+86C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\contact.5c0b6897.css.map134205002385097757 0
+74C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\contact.html134205002384819074 0
+72C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\index.html134205002384598709 0
+78C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\destination.html134205002384819074 0
+74C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\gallery.html134205002384825065 0
+75C:\Users\aouns\OneDrive\Desktop\dev2assign\campus-events\dist\packages.html134205002384825065 0
