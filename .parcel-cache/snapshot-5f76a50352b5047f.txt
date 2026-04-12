@@ -1,0 +1,22 @@
+21
+64C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist134204936242344908 1
+73C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\.dockerignore134204903134841062 0
+72C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\package.json134204903417121641 0
+70C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\.gitignore134204903071786727 0
+66C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\styles134204929345189085 1
+70C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\Dockerfile134204903176890761 0
+69C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\README.md134204903242832154 0
+63C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\src134204933607681630 1
+76C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\styles\style.css134204935982480269 0
+76C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\src\contact.html134204933607681630 0
+80C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\src\destination.html134204933448744610 0
+76C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\src\gallery.html134204933559595603 0
+74C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\src\index.html134204935890371035 0
+77C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\src\packages.html134204933504675321 0
+91C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\campus-events.78c18864.css134204936242247165 0
+95C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\campus-events.78c18864.css.map134204936242317283 0
+77C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\contact.html134204936241378422 0
+81C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\destination.html134204936241411223 0
+77C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\gallery.html134204936241265945 0
+75C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\index.html134204936242208570 0
+78C:\Users\saadq\OneDrive\Documents\code\unishi\campus-events\dist\packages.html134204936241427588 0
