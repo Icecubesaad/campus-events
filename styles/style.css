@@ -34,3 +34,38 @@ nav a:hover {
 main {
     padding: 2rem;
 }
+.page-header {
+    background: #667eea;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+.destinations {
+    padding: 2rem;
+}
+
+.destination-item {
+    background: white;
+    border-left: 4px solid #667eea;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.destination-item h3 {
+    color: #667eea;
+    margin-bottom: 0.5rem;
+}
+
+.team-info {
+    background: #f9f9f9;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 8px;
+}
+
+.team-info ul {
+    list-style-position: inside;
+    margin-top: 1rem;
+}

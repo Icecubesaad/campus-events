@@ -1,0 +1,22 @@
+21
+41C:\Users\Zaid Chughtai\campus-events\dist134205012038931281 1
+50C:\Users\Zaid Chughtai\campus-events\.dockerignore134204990479847298 0
+49C:\Users\Zaid Chughtai\campus-events\package.json134204990479847298 0
+47C:\Users\Zaid Chughtai\campus-events\.gitignore134204990479847298 0
+68C:\Users\Zaid Chughtai\campus-events\dist\campus-events.77ee3331.css134205012038931281 0
+43C:\Users\Zaid Chughtai\campus-events\styles134205007007509802 1
+72C:\Users\Zaid Chughtai\campus-events\dist\campus-events.77ee3331.css.map134205012038931281 0
+47C:\Users\Zaid Chughtai\campus-events\Dockerfile134204990479847298 0
+46C:\Users\Zaid Chughtai\campus-events\README.md134204990479847298 0
+40C:\Users\Zaid Chughtai\campus-events\src134205009308554638 1
+53C:\Users\Zaid Chughtai\campus-events\styles\style.css134205010961286902 0
+53C:\Users\Zaid Chughtai\campus-events\src\contact.html134205007007509802 0
+57C:\Users\Zaid Chughtai\campus-events\src\destination.html134205011228939774 0
+52C:\Users\Zaid Chughtai\campus-events\dist\index.html134205012038931281 0
+54C:\Users\Zaid Chughtai\campus-events\dist\contact.html134205012038618890 0
+53C:\Users\Zaid Chughtai\campus-events\src\gallery.html134205007007509802 0
+51C:\Users\Zaid Chughtai\campus-events\src\index.html134205007007509802 0
+54C:\Users\Zaid Chughtai\campus-events\src\packages.html134205007007509802 0
+58C:\Users\Zaid Chughtai\campus-events\dist\destination.html134205012038931281 0
+54C:\Users\Zaid Chughtai\campus-events\dist\gallery.html134205012038774810 0
+55C:\Users\Zaid Chughtai\campus-events\dist\packages.html134205012038618890 0
