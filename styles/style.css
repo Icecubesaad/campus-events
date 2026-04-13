@@ -34,65 +34,38 @@ nav a:hover {
 main {
     padding: 2rem;
 }
-.packages {
-    padding: 2rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-}
-
-.package-card {
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    overflow: hidden;
-    transition: transform 0.3s;
-}
-
-.package-card:hover {
-    transform: translateY(-5px);
-}
-
-.package-card h3 {
+.page-header {
     background: #667eea;
     color: white;
-    padding: 1rem;
-    margin: 0;
+    padding: 2rem;
+    text-align: center;
 }
 
-.package-card .duration,
-.package-card .date {
-    padding: 0.5rem 1rem;
-    background: #f0f0f0;
-    margin: 0;
-    font-size: 0.9rem;
+.destinations {
+    padding: 2rem;
 }
 
-.package-details {
-    padding: 1rem;
+.destination-item {
+    background: white;
+    border-left: 4px solid #667eea;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-.package-details ul {
-    margin: 0.5rem 0;
-    padding-left: 1.5rem;
-}
-
-.package-details li {
-    margin: 0.3rem 0;
-}
-
-.price {
-    font-size: 1.3rem;
-    font-weight: bold;
+.destination-item h3 {
     color: #667eea;
-    text-align: right;
-    margin-top: 1rem;
+    margin-bottom: 0.5rem;
 }
 
-.booking-info {
+.team-info {
     background: #f9f9f9;
     padding: 2rem;
     margin: 2rem;
-    text-align: center;
     border-radius: 8px;
+}
+
+.team-info ul {
+    list-style-position: inside;
+    margin-top: 1rem;
 }
